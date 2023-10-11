@@ -11,3 +11,9 @@ To open them directly in colab, use the following links:
 
 [Example Manim animations]  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brbushka/Calc-Worksheets-Jupyter-Notebooks-/blob/main/Manimation.ipynb)
 
+
+
+**References:**
+
+https://colab.research.google.com/github/peterkeep/calculus-labs/blob/master/calculus-1/Lab1_Limits.ipynb#scrollTo=XDTfdS8g6-_K
+https://patrickwalls.github.io/mathematicalpython/integration/riemann-sums/
